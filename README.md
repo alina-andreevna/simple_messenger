@@ -1,5 +1,10 @@
 ## Messenger
-Simple messenger with using Flask and Qt
+Simple messenger with using Flask and Qt. First experiense.
+
+
+### Some pictures
+![Start and login](https://github.com/alina-andreevna/simple_messenger/blob/master/screenshoots/im1.jpg)
+![Wrong password](https://github.com/alina-andreevna/simple_messenger/blob/master/screenshoots/im2.jpg)
 
 ### Inside
 - server.py - server side of the application with sending history, and authorization requests
